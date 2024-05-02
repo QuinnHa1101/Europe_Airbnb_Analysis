@@ -4,8 +4,8 @@ The analysis findings can help individuals make better decisions when searching 
 # Data Source and Limitation: 
 * The datasets include ten big cities (Amsterdam, Athens, Barcelona, Berlin, Budapest, Lisbon, London, Paris, Rome, Vienna). The final dataset has 16 variables and 51707 observations.
 * Given the propensity of Airbnb pricing to oscillate with seasonal variations or other influential factors, a dataset limited to a particular time frame may not faithfully capture these dynamics.
-Download the datasets here: https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities/data
-Data sources for relating time series analysis: https://www.bsa.org.uk/statistics/mortgage-housing-statistics
+* Download the datasets here: https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities/data
+* Data sources for relating time series analysis: https://www.bsa.org.uk/statistics/mortgage-housing-statistics
 # Key Questions:
 1. What is the difference between the number of listings among the ten cities?
 2. What is the difference between the price of listings among the ten cities?
@@ -22,7 +22,7 @@ Data sources for relating time series analysis: https://www.bsa.org.uk/statistic
 * Unsupervised Machine Learning: Clustering
 * Analyzing Time Series Data
 # Tools and Resources Used:
-The analysis was carried out using Python, Excel and Tableau.
-Packages: np, pandas, plotly, matplotlib, lightgbm,jsonn ydata_profiling etc.
+* The analysis was carried out using Python, Excel and Tableau.
+* Packages: np, pandas, plotly, matplotlib, lightgbm,jsonn ydata_profiling etc.
 # Presenting the findings as a Tableau Dashboard for the general public
 [Tableau Dashboard Story](https://public.tableau.com/app/profile/quinn.ha3250/viz/EuropeAirbnbAnalysis/EuropeAirBbBAnalysis?publish=yes)
